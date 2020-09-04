@@ -3,7 +3,7 @@
 - [x] Finish my changes
 - [x] Push my commits to GitHub
 - [x] Start stage 2 of the project
-- [ ] Complete stage 2
+- [X] Complete stage 2
 - [ ] Start stage 3 of the project
 - [ ] Complete stage 3 
 - [ ] Start stage 4 of the project
