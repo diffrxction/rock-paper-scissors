@@ -4,11 +4,11 @@
 - [x] Push my commits to GitHub
 - [x] Start stage 2 of the project
 - [X] Complete stage 2
-- [ ] Start stage 3 of the project
-- [ ] Complete stage 3 
-- [ ] Start stage 4 of the project
+- [X] Start stage 3 of the project
+- [X] Complete stage 3 
+- [X] Start stage 4 of the project
 - [ ] Complete stage 4 
 - [ ] Start stage 5 of the project
 - [ ] Complete stage 5
 - [ ] Project completed. 
-- [ ] Delete unnecessary files like this.
+- [ ] Delete unnecessary files.
