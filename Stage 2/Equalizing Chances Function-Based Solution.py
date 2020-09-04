@@ -30,4 +30,4 @@ def compare_both(user, computer):
 user_choice = input().strip()
 print(compare_both(user_choice, computer_choice()))
 
-# print('Sorry, but the computer chose', get_winner_for(user_choice)) #SOlution for stage 1
+# print('Sorry, but the computer chose', get_winner_for(user_choice)) #Solution for stage 1
