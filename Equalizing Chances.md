@@ -2,7 +2,7 @@
 
 ## Description
 Well, now let's do something real. Nobody wants the game where you always lose.
-Using the power of the random module, we'll make a truly interesting game.
+Using the power of the `random` module, we'll make a truly interesting game.
 
 You should write a program that reads input from the user, chooses a random option and then says who won, the user or the computer.
 There are a few examples below, providing output for any outcome (```<option>``` is the option chosen by your program):
@@ -23,7 +23,7 @@ program should:
         Win -> Well done. The computer chose <option> and failed
 
 ## Examples
-The greater-than symbol followed by space (> ) represents the user input. Notice that it's not the part of the input.
+The greater-than symbol followed by space (`>` ) represents the user input. Notice that it's not the part of the input.
 
 Example 1
 ```
