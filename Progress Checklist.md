@@ -1,4 +1,4 @@
-- [x] Start stage 1 of the project
+- [x] Start stage 1 of the project:heart:
 - [x] Complete stage 1 of the project
 - [x] Finish my changes
 - [x] Push my commits to GitHub
@@ -7,8 +7,9 @@
 - [X] Start stage 3 of the project
 - [X] Complete stage 3 
 - [X] Start stage 4 of the project
-- [ ] Complete stage 4 
+- [X] Complete stage 4. P.S. I almost gave up. :weary: 
 - [ ] Start stage 5 of the project
 - [ ] Complete stage 5
 - [ ] Project completed. 
 - [ ] Delete unnecessary files.
+- [ ] Can't wait to tick all of these. :dizzy_face:
