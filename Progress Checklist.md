@@ -8,8 +8,8 @@
 - [X] Complete stage 3 
 - [X] Start stage 4 of the project
 - [X] Complete stage 4. P.S. I almost gave up. :weary: 
-- [ ] Start stage 5 of the project
-- [ ] Complete stage 5
-- [ ] Project completed. 
-- [ ] Delete unnecessary files.
-- [ ] Can't wait to tick all of these. :dizzy_face:
+- [X] Start stage 5 of the project
+- [X] Complete stage 5
+- [X] Project completed. 
+- [X] Delete unnecessary files.
+- [X] Can't wait to tick all of these. :dizzy_face:
